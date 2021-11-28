@@ -6,7 +6,7 @@ I am passionate about design and interface development. Graduated from a graphic
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nonimart&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[ ⟶ antoinemartinon.com ⚡](http://www.antoinemartinon.com/)  |    [⟶ Aloha.Studio 🍍](https://aloha.studio/) 
+[ ⟶ ⚡ antoinemartinon.com ](http://www.antoinemartinon.com/)  |    [⟶ 🍍 Aloha.Studio ](https://aloha.studio/) 
 
 
 
