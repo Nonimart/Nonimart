@@ -1,6 +1,6 @@
 ###  🍍
 
-⟶ I'm a Full Stack developper with a particular focus on Front-end and Design. <br/>
+###### ⟶ I'm a Full Stack developper with a particular focus on Front-end and Design. <br/>
 I am passionate about design and interface development. Graduated from a graphic design school, I love to work on interesting digital projects but also on identity design & branding, editorial, and graphic projects.
 
 
