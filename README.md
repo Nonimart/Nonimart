@@ -1,12 +1,14 @@
-### 🍍 Hi There 👋
+###  🍍
 
-I'm a Full Stack developper with a particular focus on Front-end and Design. 
-I am passionate about design and interface development. Graduated from a graphic design school, I love to work on interesting digital projects but also on identity design & branding, editorial, and graphic projetcs.  
+⟶ I'm a Full Stack developper with a particular focus on Front-end and Design. 
+I am passionate about design and interface development. Graduated from a graphic design school, I love to work on interesting digital projects but also on identity design & branding, editorial, and graphic projects.  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nonimart&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[ ⟶ ⚡ antoinemartinon.com ](http://www.antoinemartinon.com/)  |    [⟶ 🍍 Aloha.Studio ](https://aloha.studio/) 
+[  ⚡ antoinemartinon.com ](http://www.antoinemartinon.com/)    
+</br>
+[🍍 Aloha.Studio ](https://aloha.studio/) 
 
 
 
